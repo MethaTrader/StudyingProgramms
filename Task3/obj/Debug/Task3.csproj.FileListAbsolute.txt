@@ -1,0 +1,9 @@
+C:\Users\Admin\source\repos\Lab10\Task3\bin\Debug\Task3.exe.config
+C:\Users\Admin\source\repos\Lab10\Task3\bin\Debug\Task3.exe
+C:\Users\Admin\source\repos\Lab10\Task3\bin\Debug\Task3.pdb
+C:\Users\Admin\source\repos\Lab10\Task3\obj\Debug\Task3.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Lab10\Task3\obj\Debug\Task3.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Lab10\Task3\obj\Debug\Task3.exe
+C:\Users\Admin\source\repos\Lab10\Task3\obj\Debug\Task3.pdb
+C:\Users\Admin\source\repos\Lab10\Task3\bin\Debug\Colorful.Console.dll
+C:\Users\Admin\source\repos\Lab10\Task3\obj\Debug\Task3.csproj.CopyComplete
